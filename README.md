@@ -9,8 +9,8 @@ As qualificações profissionais de programação levam você a carreiras em pra
 
 Este curso é um ótimo ponto de partida para aprender Python, sem precisar de conhecimentos de programação. Ao concluir o curso, você recebe uma declaração de desempenho. Ele é dividido em duas partes que preparam você para duas certificações:
 
-A parte 1 (PE1: 35 horas) prepara você para o PCEP – Programador de Python de nível básico certificado.
-A parte 2 (PE2: 40 horas) prepara você para o PCAP – Associado certificado em programação Python.
+# A parte 1 (PE1: 35 horas) prepara você para o PCEP – Programador de Python de nível básico certificado.
+# A parte 2 (PE2: 40 horas) prepara você para o PCAP – Associado certificado em programação Python.
  
 
 Você vai aprender estas habilidades essenciais:
