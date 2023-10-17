@@ -11,7 +11,7 @@ print(44 + 46)
 
 print()
 
-# Uso do caractere de escapa
+# Uso do caractere de escape
 print("Rodrigo\nLima\nCavalcante")
 
 print()
