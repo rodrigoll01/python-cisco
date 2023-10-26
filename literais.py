@@ -1,0 +1,17 @@
+
+print("\n""2")
+print()
+print(2)
+print()
+print(2E2)
+print()
+print("I like \"Monty Python\"\n")
+print('I like "Monty Python"\n')
+print("I'm Monty Python\n")
+print('I\'m Monty Python.\n')
+print(True > False)
+print(True < False)
+print()
+print('"I\'m"\n' '""learning""\n' '"""Python"""')
+print()
+

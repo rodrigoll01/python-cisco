@@ -1,0 +1,13 @@
+A =(2**0)
+print("2**0 =",A)
+B =(2**1)
+print("2**1 =",B)
+C =(2**3)
+print("2**3 =",C)
+soma = A + B + C
+print("Soma das potências é =",soma)
+print()
+print("Soma 2 + 2 =")
+print(2+2)
+print()
+print("Operadores matemáticos: +, -, *, /, //, %, **")
